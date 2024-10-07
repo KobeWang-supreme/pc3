@@ -1,4 +1,4 @@
-# Verilog Modules Project
+# Project
 Name: Kesheng Wang
 Netid: kw457
 ## Overview
